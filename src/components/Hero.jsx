@@ -14,9 +14,10 @@ export default function Hero({ onSearch }) {
           transition={{ duration: 0.6 }}
           className="text-4xl md:text-6xl font-extrabold tracking-tight text-emerald-900"
         >
-          Find your perfect farmhouse getaway
+          Book My Paradise
         </motion.h1>
-        <p className="mt-4 text-emerald-800/80 text-lg md:text-xl max-w-2xl">
+        <p className="mt-2 text-emerald-700 font-semibold uppercase tracking-wide text-sm">Farmhouse stays</p>
+        <p className="mt-3 text-emerald-800/80 text-lg md:text-xl max-w-2xl">
           Browse handpicked countryside stays with space to unwind. Easy booking, transparent pricing.
         </p>
 
